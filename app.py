@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 app = Flask(__name__)
 
 # === TOKEN CỦA BẠN (đã điền sẵn) ===
-TOKEN = "8967046077:AAEOVWzXiVjTGCSQFrE-Gf5pwounSysejlY"
+TOKEN = "8778899800:AAENMYdLSIRQ2T6J1wjyRZCh8uDYhRalkBM"
 
 # Khởi tạo bot
 bot_app = Application.builder().token(TOKEN).build()
